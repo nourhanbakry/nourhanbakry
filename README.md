@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nourhan Bakry</h1>
 <h3 align="center">Student passionate about developing mobile applications using flutter framework</h3>
 
-- 🔭 I’m currently working on [e-commerce app](https://github.com/NourhanHamada/Diva)
-
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **nourhankhaledbakry@gmail.com**
