@@ -1,10 +1,13 @@
+
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=800&height=70&lines=Hi+There+%F0%9F%91%8B%2C+I%27m+Nourhan+Bakry;Software+Engineering+Student;Mobile+App+Developer" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=800&height=100&lines=Hi+There+%F0%9F%91%8B%2C+I%27m+Nourhan+Bakry;Software+Engineering+Student;Mobile+App+Developer" 
+      alt="Typing SVG" 
+    />
   </a>
 </p>
-
-
 
 <h2 align="left">About</h1>
 
@@ -51,6 +54,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   <img width="12" />
 </div>
+
+<h2 align="left">Open Source Contribuation</h1>
+
+###
+
+| 🎁 Repo                                                                                                                     | ⭐ Stars                                                                                           | 📚 Forks                                                                                         | ✨ Contributions                                                                                                              |
+|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| [![Github Repo](https://img.shields.io/badge/AnkiDroid-repo-blue?style=flat-square)](https://github.com/ankidroid/Anki-Android) | ![GitHub Repo stars](https://img.shields.io/badge/Stars-11K-blue?style=flat-square)              | ![GitHub forks](https://img.shields.io/badge/Forks-2.8K-blue?style=flat-square)                 | <div align="center">[Pull Requests](https://github.com/ankidroid/Anki-Android/pulls?q=is%3Apr+author%3Anourhanbakry)</div> |
+
 
 <h2 align="left">Profile Status</h1>
 
