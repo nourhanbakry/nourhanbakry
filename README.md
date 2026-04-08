@@ -70,7 +70,9 @@
 </table>
 
 </div>
-## Contact me on
+<h2 align="left">Contact me</h1>
+
+###
 
 <div align="center">
     <table>
