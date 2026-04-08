@@ -1,15 +1,15 @@
 
 
-<p align="center">
+<p align="center" style="margin: 10px 0;">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=800&height=100&lines=Hi+There+%F0%9F%91%8B%2C+I%27m+Nourhan+Bakry;Software+Engineering+Student;Mobile+App+Developer" 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=800&height=90&lines=Hi+There+%F0%9F%91%8B%2C+I%27m+Nourhan+Bakry;Software+Engineering+Student;Mobile+App+Developer" 
       alt="Typing SVG" 
     />
   </a>
 </p>
 
-<h2 align="left">About</h1>
+<h2 align="left" style="margin-top: 10px; margin-bottom: 10px;">About</h2>
 
 ###
 - 👩‍💻 I'm a mobile app developer focused on Android Native and I also build apps using Flutter  
